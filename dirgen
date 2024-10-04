@@ -1,0 +1,4 @@
+#!/bin/bash
+# Call the Python script and pass the arguments
+# Set the path for dirgen.py correctly.
+python3 ~/shellpy/dirgen.py "$1" 
